@@ -1,5 +1,6 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-
+# NAME : MONISHKUMAR.V
+# REG NO :212223040116
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
@@ -575,10 +576,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
- ![image](https://github.com/user-attachments/assets/37d4a3cb-66da-4e08-ba3d-20bd283b39fc)
+ <img width="1902" height="1009" alt="Screenshot 2025-09-24 111237" src="https://github.com/user-attachments/assets/6ee38d46-af8f-405a-802b-a12fea9012d6" />
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/user-attachments/assets/e4248dc5-22e8-4457-b89e-190b2b6edfd5)
+ <img width="844" height="798" alt="Screenshot 2025-09-25 132218" src="https://github.com/user-attachments/assets/d032607d-88ec-48df-8a9c-9f354e8ff5ec" />
+
 
  
 ## Result :
